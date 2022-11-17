@@ -1,2 +1,2 @@
-# S5
+# Sequential file allocation
  S5 SS Lab
